@@ -1,3 +1,5 @@
 *.zip
 *.pickle
 *.txt
+
+__pycache__
